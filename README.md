@@ -1,4 +1,22 @@
 ## Hi there 👋
+# Olá, eu sou Alexandre Augusto Caldeira Sanches! 👋
+
+Estudante apaixonado por [tecnologias], com experiência em [projetos/áreas].
+
+## 🚀 Skills
+- **Linguagens**: Python, JavaScript, 
+- **Frameworks**: Django, React, etc.
+
+## 🌱 Atualmente aprendendo
+- [cursando linguagens ]
+
+## 📫 Como me encontrar:
+- [LinkedIn](https://www.linkedin.com/in/alexandre-caldeira-sanches)
+- 
+
+---
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=alexandre0904&show_icons=true)
 
 <!--
 **Alexandre0904/Alexandre0904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
