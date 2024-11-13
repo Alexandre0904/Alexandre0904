@@ -13,7 +13,7 @@ Estudante apaixonado por [tecnologias],
 
 ## 📫 Como me encontrar:
 - [LinkedIn](https://www.linkedin.com/in/alexandre-caldeira-sanches)
-- 
+- [e-mail](https://www.gmail.com/in/alexandreaugustosan93@gmail.com)
 
 ---
 
