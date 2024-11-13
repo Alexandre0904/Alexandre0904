@@ -13,6 +13,7 @@ Estudante apaixonado por [tecnologias],
 
 ## 📫 Como me encontrar:
 - [LinkedIn](https://www.linkedin.com/in/alexandre-caldeira-sanches)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil-linkedin)
 - [Email](mailto:exemplo@gmail.com)
 - # Entre em contato no WhatsApp
 
