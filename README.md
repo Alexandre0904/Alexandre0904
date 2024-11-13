@@ -1,14 +1,15 @@
 ## Hi there 👋
 # Olá, eu sou Alexandre Augusto Caldeira Sanches! 👋
 
-Estudante apaixonado por [tecnologias], com experiência em [projetos/áreas].
+Estudante apaixonado por [tecnologias], 
+
 
 ## 🚀 Skills
-- **Linguagens**: Python, JavaScript, 
-- **Frameworks**: Django, React, etc.
+- **Linguagens**: Python, JavaScript, SQL, 
+- **Frameworks**: Django
 
 ## 🌱 Atualmente aprendendo
-- [cursando linguagens ]
+- [cursando fullstack ]
 
 ## 📫 Como me encontrar:
 - [LinkedIn](https://www.linkedin.com/in/alexandre-caldeira-sanches)
