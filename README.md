@@ -5,7 +5,7 @@ Estudante apaixonado por [tecnologias],
 
 
 ## 🚀 Skills
-- **Linguagens**: Python, JavaScript, SQL, 
+- **Linguagens**: Python, JavaScript, MySQL, PHP
 - **Frameworks**: Django
 
 ## 🌱 Atualmente aprendendo
