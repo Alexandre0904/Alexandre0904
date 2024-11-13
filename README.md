@@ -16,12 +16,6 @@ Estudante apaixonado por [tecnologias],
 - ## Contato
 Para entrar em contato, envie um e-mail para: [alexandreaugustosan93@gmail.com](mailto:alexandreaugustosan93@gmail.com)
 
-- # Entre em contato no WhatsApp
-
-Se você tiver alguma dúvida ou precisar de ajuda, pode me contatar diretamente pelo WhatsApp:
-
-[💬 Me envie uma mensagem](https://wa.me/5531992425179)
-
 ---
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=alexandre0904&show_icons=true)
